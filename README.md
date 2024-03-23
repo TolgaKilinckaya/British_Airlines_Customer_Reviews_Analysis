@@ -1,4 +1,4 @@
-# British_Arilines_CustomerReviews_Analysis
+# British_Airlines_Customer_Reviews_Analysis
 ## Getting Started
 ### Web scraping and analysis
 
